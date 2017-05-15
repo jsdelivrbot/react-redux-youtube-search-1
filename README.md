@@ -1,3 +1,3 @@
 # React-Redux Youtube Search
 
-This is part of a Udemy tutorial on React-Redux by Stephen Grider
+This project is part of Stephen Grider's React-Redux Udemy course
